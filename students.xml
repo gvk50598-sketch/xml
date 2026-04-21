@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+<student id="S101">
+<name>Spoorthy</name>
+<course>Computer Science</course>
+<year>2024</year>
+<marks>95</marks>
+</student>
+<student id="S102">
+<name>Sri Veda</name>
+<course>Information Technology</course>
+<year>2024</year>
+<marks>90</marks>
+</student>
+<student id="S103">
+<name>Thrushna</name>
+<course>Computer Science</course>
+<year>2024</year>
+<marks>85</marks>
+</student>
+  <student id="S104">
+<name>Ahila</name>
+<course>Information Technology</course>
+<year>2024</year>
+<marks>90</marks>
+</student>
+<student id="S105">
+<name>Shreshta</name>
+<course>Computer Science</course>
+<year>2024</year>
+<marks>98</marks>
+</student>
+</students>
